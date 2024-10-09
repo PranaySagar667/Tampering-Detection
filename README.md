@@ -119,12 +119,7 @@ Before running the project, ensure you have the following dependencies installed
    - The result (Original or Tampered).
    - Any suspected tampered regions in the image.
 
-## License
-This project is open-source and free to use.
-
 ## Contact
 If you encounter any issues or have suggestions, please contact the project developer.
-
----
-
-This should serve as a good README for your Image Tampering Detection project. Let me know if you'd like to add anything else!
+Pranay Sagar
+email: Pranaysagar667@gmail.com
